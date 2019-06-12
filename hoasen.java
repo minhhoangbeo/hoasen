@@ -1,4 +1,4 @@
-public class hoasen
+ hoasen
 {
 		public static void main(String[] args)
 		{
