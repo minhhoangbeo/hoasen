@@ -4,7 +4,7 @@ public class hoasen
 		{
 			for(int i =1;i<=5;i++)
 			{
-				System.out.println("dai hoc bon ba..."+i)
+				System.out.println("hoa sen university..."+i)
 			}
 		}
 }
